@@ -10,6 +10,8 @@ Functions:
 - Modify orders (add/remove products) [*user/admin*]
 - Cancel or delete orders [*user/admin*]
 - Update user's contact information [*user/admin*]
+
+Documentation: http://127.0.0.1:8000/docs
  	
 ## Installation
 
