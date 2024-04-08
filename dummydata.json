@@ -1,0 +1,251 @@
+{
+    "products": [
+        {
+            "name": "Milk Whole Vitamin D",
+            "sku": "10450114",
+            "brand": "Great Value",
+            "description": "Gallon Plastic Jug",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 1,
+            "price": 3.45,
+            "category": "Dairy"
+        },
+        {
+            "name": "Nestle Nesquik Strawberry Flavored Lowfat Milk",
+            "sku": "710863978",
+            "brand": "Nesquik",
+            "description": "Ready to Drink",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 1,
+            "price": 1.48,
+            "category": "Dairy"
+        },
+        {
+            "name": "Skinless Chicken Breasts",
+            "sku": "27935840",
+            "brand": "Freshness Guaranteed",
+            "description": "Boneless, Tray",
+            "unit": 1,
+            "unit_size": 4,
+            "weight": 1,
+            "price": 12.18,
+            "category": "Meat & Seafood"
+        },
+        {
+            "name": "Pork Center Cut Loin Chops",
+            "sku": "51259100",
+            "brand": "Fresh Pork",
+            "description": "Bone-in Family Pack, Tray",
+            "unit": 1,
+            "unit_size": 4,
+            "weight": 1.4,
+            "price": 10.62,
+            "category": "Meat & Seafood"
+        },
+        {
+            "name": "Fat Ground Beef Chuck",
+            "sku": "479601462",
+            "brand": "Fresh Ground Beef",
+            "description": "All Natural* 80% Lean/20%, Tray",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 1.4,
+            "price": 6.47,
+            "category": "Meat & Seafood"
+        },
+        {
+            "name": "Cheerios Veggie Blends Breakfast Cereal",
+            "sku": "5073661919",
+            "brand": "Cheerios",
+            "description": "Apple Strawberry Flavored, Family",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 18,
+            "price": 4.93,
+            "category": "Breakfast & Cereal"
+        },
+        {
+            "name": "Special K Vanilla and Almond Cold Breakfast Cereal",
+            "sku": "47725954",
+            "brand": "Kellogg's",
+            "description": "Family Size",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 18.8,
+            "price": 4.93,
+            "category": "Breakfast & Cereal"
+        },
+        {
+            "name": "Milk Chocolate Candy",
+            "sku": "404566511",
+            "brand": "M&M'S",
+            "description": "Bag",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 38,
+            "price": 12.98,
+            "category": "Candy"
+        },
+        {
+            "name": "Coca-Cola Soda Pop",
+            "sku": "17670814",
+            "brand": "Coca-Cola",
+            "description": "1.25 Liters Bottle",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 1.25,
+            "price": 9.00,
+            "category": "Beverages"
+        },
+        {
+            "name": "Starbucks Frappuccino with Oat Milk Dark Chocolate Brownie",
+            "sku": "313794233",
+            "brand": "Starbucks",
+            "description": "Iced Coffee Drink 13.7 fl oz Bottle",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 13.7,
+            "price": 3.48,
+            "category": "Beverages"
+        },
+        {
+            "name": "Dr Pepper Soda Pop",
+            "sku": "17341397",
+            "brand": "Dr. Pepper",
+            "description": "2 L, Bottle",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 2,
+            "price": 1.98,
+            "category": "Beverages"
+        },
+        {
+            "name": "Red Bull Summer Edition Curuba Elderflower Energy Drink",
+            "sku": "5340366888",
+            "brand": "Red Bull",
+            "description": "8.4 Fl Oz, 4 Cans",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 8.4,
+            "price": 7.68,
+            "category": "Beverages"
+        },
+        {
+            "name": "Nescafe Clasico Instant Coffee",
+            "sku": "16777252",
+            "brand": "Nescafe",
+            "description": "Dark Roast, 1 Jar (7 Oz)",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 1,
+            "price": 6.74,
+            "category": "Coffee"
+        },
+        {
+            "name": "Real Mayo Creamy & Smooth Mayonnaise",
+            "sku": "14651650",
+            "brand": "Kraft",
+            "description": "for a Keto and Low Carb Lifestyle, 30 fl oz Jar",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 30,
+            "price": 4.98,
+            "category": "Pantry"
+        },
+        {
+            "name": "Hellmann's Light Mayonnaise",
+            "sku": "14651650",
+            "brand": "Hellmann's",
+            "description": "Made with Cage Free Eggs, 30 fl oz Jar",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 30,
+            "price": 13.79,
+            "category": "Pantry"
+        },
+        {
+            "name": "Honey Wheat Sandwich Bread Loaf",
+            "sku": "10450000",
+            "brand": "Nature's Own",
+            "description": "20 oz",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 30,
+            "price": 3.64,
+            "category": "Bakery & Bread"
+        },
+        {
+            "name": "Chocolate Chip Bakery Cookies",
+            "sku": "184184305",
+            "brand": "Freshness Guaranteed",
+            "description": "14 oz, 10 Count",
+            "unit": 1,
+            "unit_size": 10,
+            "weight": 14,
+            "price": 2.98,
+            "category": "Snacks, Cookies & Chips"
+        },
+        {
+            "name": "Fresh Navel Orange",
+            "sku": "162577028",
+            "brand": "Fresh Produce",
+            "description": "Each",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 1,
+            "price": 0.98,
+            "category": "Fresh Produce"
+        },
+        {
+            "name": "White Cheddar Shells Macaroni and Cheese with Organic Pasta",
+            "sku": "10294616",
+            "brand": "Annie's",
+            "description": "6 oz",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 6,
+            "price": 1.44,
+            "category": "Pantry"
+        },
+        {
+            "name": "Tea Black",
+            "sku": "10307788",
+            "brand": "Lipton",
+            "description": "Tea Bags, Lipton 100% Natural, 100 Ct",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 6,
+            "price": 5.23,
+            "category": "Beverages"
+        },
+        {
+            "name": "Potato Snack Chips",
+            "sku": "677669806",
+            "brand": "Lay's",
+            "description": "Party Size, 13 oz Bag",
+            "unit": 1,
+            "unit_size": 1,
+            "weight": 13,
+            "price": 5.44,
+            "category": "Snacks, Cookies & Chips"
+        }
+    ],
+    "users": [
+        {
+            "first_name": "Admin",
+            "last_name": "Admin",
+            "phone_number": 0,
+            "email": "admin@admin.com",
+            "password": "admin"
+        },
+        {
+            "first_name": "Admin",
+            "last_name": "Admin",
+            "phone_number": 0,
+            "email": "admin+1@admin.com",
+            "password": "admin"
+        }
+    ]
+}
