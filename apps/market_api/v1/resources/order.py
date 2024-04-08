@@ -66,39 +66,3 @@ def update_order_delivery_status(
         return APIInvalidDeliveryStatusTransition()
 
     return order
-
-
-'''
-from fastapi_sqlalchemy import db
-from apps.market_api.models import Brand, Category, Product
-from datetime import datetime
-
-# db_user = User(first_name="Pepe", last_name="Lazo", phone_number=999999999, email="pepe@lazo.com")
-# db_user = Order(user_uuid="3aeaf80d-067d-459d-ba94-2819ed3c8d76", delivery_status="PREPARING_FOR_DELIVERY")
-db_product = Product(
-    name="Product 1",
-    sku="123",
-    brand_uuid=UUID(int=1),
-    description="Product 1 description",
-    unit=1,
-    unit_size=1,
-    weight=400,
-    price=3000,
-    category_uuid=UUID(int=1),
-    created_at=datetime.now()
-)
-
-
-users = [
-    User(name='John', email='john@example.com'),
-    User(name='Alice', email='alice@example.com')
-]
-profiles = [
-    Profile(bio='Bio for John', user=users[0]),
-    Profile(bio='Bio for Alice', user=users[1])
-]
-session.add_all(users)
-session.add_all(profiles)
-session.commit()
-
-'''
